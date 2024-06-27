@@ -1,0 +1,23 @@
+_id: req_98459d2c796d4f029f7dce2fe842bec8
+type: Request
+parentId: wrk_a531edaaad7f4e9889ff66e3d4389587
+modified: 1718799449806
+created: 1718799412888
+url: http://localhost:63002/api/sourcecode/0xa47e91959f9dddde473794fe728dfa061db5ba61/nonWordSearch
+name: sc serach nonwords
+description: ""
+method: POST
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1718516349984.625
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,23 @@
+_id: req_1defc8e368a549c5bb61e5282b372f86
+type: Request
+parentId: wrk_a531edaaad7f4e9889ff66e3d4389587
+modified: 1719376973464
+created: 1718677837297
+url: http://localhost:63004/api/contractDetails/0x2f4684577a98e52e2F47124aF774158b09E03c30?withABI=true
+name: contractdetails
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1718677837297
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,23 @@
+_id: req_c519a8c68e744479a7cbd2c125c90eb5
+type: Request
+parentId: wrk_a531edaaad7f4e9889ff66e3d4389587
+modified: 1719348385685
+created: 1719348377697
+url: http://localhost:63002/api/sourcecode/0x879Ba5fC422CA799bb107BBAb4DAe32fF8e3798E/publicFunctionSearch
+name: sc serach pf & assem
+description: ""
+method: POST
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1718476166344.4375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

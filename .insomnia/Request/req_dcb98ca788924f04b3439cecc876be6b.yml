@@ -1,0 +1,51 @@
+_id: req_dcb98ca788924f04b3439cecc876be6b
+type: Request
+parentId: wrk_a531edaaad7f4e9889ff66e3d4389587
+modified: 1718678371613
+created: 1718678286667
+url: http://localhost:63002/api/threshold/broke100k
+name: brok100k
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"time":"1","blocksData":[{"contract":"0x15A5343E60afFB7F711e5eD4d24c714E62a30ff6","symbol":"Pokemon","dateTime":"2024-06-18
+    02:37:23","blockNumber":20115720,"marketCap":188737.2122499272,"price":4.4937431488077913e-13,"volume":861.0439390012418,"totalBuys":"0","totalSells":"1","buyRatio":0,"ageInMinutes":509321.8,"openMc":null,"highMc":188737.2122499272,"lowMc":null,"closeMc":null,"liveAge":2546609},{"contract":"0x21C43e1E788f44380E698454BfB07879a61dd731","symbol":"SHIN","dateTime":"2024-06-18
+    02:37:23","blockNumber":20115720,"marketCap":390159.79819014313,"price":0.0003901597981901431,"volume":6.460177152,"totalBuys":"1","totalSells":"0","buyRatio":1,"ageInMinutes":548244,"openMc":null,"highMc":390159.79819014313,"lowMc":null,"closeMc":null,"liveAge":2741220},{"contract":"0x3aaDA3e213aBf8529606924d8D1c55CbDc70Bf74","symbol":"XMON","dateTime":"2024-06-18
+    02:37:23","blockNumber":20115720,"marketCap":2583058.1085147224,"price":258.30581085147224,"volume":774.9174325544167,"totalBuys":"0","totalSells":"1","buyRatio":0,"ageInMinutes":1772838.8,"openMc":null,"highMc":2583058.1085147224,"lowMc":null,"closeMc":null,"liveAge":3514938},{"contract":"0x40a7dF3dF8b56147B781353D379cB960120211D7","symbol":"MOBY","dateTime":"2024-06-18
+    02:37:23","blockNumber":20115720,"marketCap":12810265.444923382,"price":0.12810265444923383,"volume":4804.799999999999,"totalBuys":"1","totalSells":"0","buyRatio":1,"ageInMinutes":196925.8,"openMc":null,"highMc":12810265.444923382,"lowMc":null,"closeMc":null,"liveAge":916986},{"contract":"0x426a688eE72811773eB64F5717A32981B56F10c1","symbol":"AMC","dateTime":"2024-06-18
+    02:37:23","blockNumber":20115720,"marketCap":2950741.0089275143,"price":8.506027699416301e-8,"volume":1489.76256,"totalBuys":"0","totalSells":"1","buyRatio":0,"ageInMinutes":1406.8,"openMc":null,"highMc":2950741.0089275143,"lowMc":null,"closeMc":null,"liveAge":6770},{"contract":"0x44971ABF0251958492FeE97dA3e5C5adA88B9185","symbol":"basedAI","dateTime":"2024-06-18
+    02:37:23","blockNumber":20115720,"marketCap":144281087.82838905,"price":4.033643481733532,"volume":755.04,"totalBuys":"1","totalSells":"0","buyRatio":1,"ageInMinutes":524167.8,"openMc":null,"highMc":144281087.82838905,"lowMc":null,"closeMc":null,"liveAge":2620557},{"contract":"0x47474dAEbA9221034431656a89df46842F573770","symbol":"TRAIN","dateTime":"2024-06-18
+    02:37:23","blockNumber":20115720,"marketCap":2791454.6418688577,"price":0.05939265195465654,"volume":1029.6,"totalBuys":"1","totalSells":"0","buyRatio":1,"ageInMinutes":1406.6,"openMc":null,"highMc":2791454.6418688577,"lowMc":null,"closeMc":null,"liveAge":6761},{"contract":"0x55A8f6c6b3Aa58ad6D1f26f6AFeDEd78F32E19f4","symbol":"AEGIS","dateTime":"2024-06-18
+    02:37:23","blockNumber":20115720,"marketCap":3315206.159131529,"price":0.03315206159131529,"volume":1196.789423446482,"totalBuys":"0","totalSells":"1","buyRatio":0,"ageInMinutes":307187.6,"openMc":null,"highMc":3315206.159131529,"lowMc":null,"closeMc":null,"liveAge":1535874},{"contract":"0x576e2BeD8F7b46D34016198911Cdf9886f78bea7","symbol":"TRUMP","dateTime":"2024-06-18
+    02:37:23","blockNumber":20115720,"marketCap":333065250.80254674,"price":7.086494697926527,"volume":2679.7517377535487,"totalBuys":"1","totalSells":"0","buyRatio":1,"ageInMinutes":444262.4,"openMc":null,"highMc":333065250.80254674,"lowMc":null,"closeMc":null,"liveAge":2221096},{"contract":"0x68BbEd6A47194EFf1CF514B50Ea91895597fc91E","symbol":"ANDY","dateTime":"2024-06-18
+    02:37:23","blockNumber":20115720,"marketCap":183135504.4870973,"price":0.00018313550448709724,"volume":1721.4992038527098,"totalBuys":"1","totalSells":"0","buyRatio":1,"ageInMinutes":144266.2,"openMc":null,"highMc":183135504.4870973,"lowMc":null,"closeMc":null,"liveAge":721330},{"contract":"0x6A7eFF1e2c355AD6eb91BEbB5ded49257F3FED98","symbol":"OPSEC","dateTime":"2024-06-18
+    02:37:23","blockNumber":20115720,"marketCap":49048710.78452424,"price":0.4904871078452425,"volume":275.5295392601148,"totalBuys":"1","totalSells":"0","buyRatio":1,"ageInMinutes":238799,"openMc":null,"highMc":49048710.78452424,"lowMc":null,"closeMc":null,"liveAge":1192589},{"contract":"0x6E79B51959CF968d87826592f46f819F92466615","symbol":"HOPPY","dateTime":"2024-06-18
+    02:37:23","blockNumber":20115720,"marketCap":24091095.93808821,"price":0.00005729381680955719,"volume":770.2904434611886,"totalBuys":"2","totalSells":"1","buyRatio":0.3322079745830583,"ageInMinutes":142438.8,"openMc":null,"highMc":24102935.79361261,"lowMc":null,"closeMc":null,"liveAge":712191},{"contract":"0x766d2fcECe1E3eeF32aae8711ab886eE95fd5B2A","symbol":"MVP","dateTime":"2024-06-18
+    02:37:23","blockNumber":20115720,"marketCap":14955105.176120313,"price":0.29910210352240624,"volume":3863.098328538658,"totalBuys":"0","totalSells":"1","buyRatio":0,"ageInMinutes":183312.6,"openMc":null,"highMc":14955105.176120313,"lowMc":null,"closeMc":null,"liveAge":915784},{"contract":"0x80A88dc663fa256E34ecb5a47314702313b162A5","symbol":"CYPEPE","dateTime":"2024-06-18
+    02:37:23","blockNumber":20115720,"marketCap":105269.8048675896,"price":0.0001052698048675896,"volume":274.56,"totalBuys":"1","totalSells":"0","buyRatio":1,"ageInMinutes":1247.4,"openMc":null,"highMc":105269.8048675896,"lowMc":null,"closeMc":null,"liveAge":6237},{"contract":"0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE","symbol":"SHIB","dateTime":"2024-06-18
+    02:37:23","blockNumber":20115720,"marketCap":17953440947.92665,"price":0.000017953603650537928,"volume":3432,"totalBuys":"1","totalSells":"0","buyRatio":1,"ageInMinutes":456721.8,"openMc":null,"highMc":17953440947.92665,"lowMc":null,"closeMc":null,"liveAge":3514948},{"contract":"0xa462bdE22D98335E18A21555b6752dB93a937cFf","symbol":"BOBBY","dateTime":"2024-06-18
+    02:37:23","blockNumber":20115720,"marketCap":7526838.842170955,"price":0.00016014550728023308,"volume":2679.7517377535487,"totalBuys":"0","totalSells":"1","buyRatio":0,"ageInMinutes":1252.6,"openMc":null,"highMc":7526838.842170955,"lowMc":null,"closeMc":null,"liveAge":6263},{"contract":"0xB557eB65e22DB863AE67E3104f7aDc7BE0cD0503","symbol":"WOOF","dateTime":"2024-06-18
+    02:37:23","blockNumber":20115720,"marketCap":2805619.6197172897,"price":0.00003044124241924714,"volume":51606.88217921579,"totalBuys":"8","totalSells":"6","buyRatio":0.8562841795496038,"ageInMinutes":38.6,"openMc":null,"highMc":3044124.2419247143,"lowMc":null,"closeMc":null,"liveAge":193},{"contract":"0xc668695dcbCf682dE106Da94bDE65c9bc79362d3","symbol":"SVPN","dateTime":"2024-06-18
+    02:37:23","blockNumber":20115720,"marketCap":4966020.484795997,"price":0.004966020484795997,"volume":379.6464333579575,"totalBuys":"0","totalSells":"1","buyRatio":0,"ageInMinutes":138120.4,"openMc":null,"highMc":4966020.484795997,"lowMc":null,"closeMc":null,"liveAge":651373},{"contract":"0xCF67815ccE72E682Eb4429eCa46843bed81Ca739","symbol":"G3","dateTime":"2024-06-18
+    02:37:23","blockNumber":20115720,"marketCap":974214.8836266282,"price":0.11970049126518036,"volume":1029.6,"totalBuys":"1","totalSells":"0","buyRatio":1,"ageInMinutes":0,"openMc":null,"highMc":974214.8836266282,"lowMc":null,"closeMc":null,"liveAge":0},{"contract":"0xD1e64bcc904Cfdc19d0FABA155a9EdC69b4bcdAe","symbol":"PIKA","dateTime":"2024-06-18
+    02:37:23","blockNumber":20115720,"marketCap":20699289.85673424,"price":0.0005914083117948718,"volume":864.934656,"totalBuys":"0","totalSells":"1","buyRatio":0,"ageInMinutes":126660.6,"openMc":null,"highMc":20699289.85673424,"lowMc":null,"closeMc":null,"liveAge":632770},{"contract":"0xD46bA6D942050d489DBd938a2C909A5d5039A161","symbol":"AMPL","dateTime":"2024-06-18
+    02:37:23","blockNumber":20115720,"marketCap":44955708.54143477,"price":1.0545946701443183,"volume":240.24,"totalBuys":"1","totalSells":"0","buyRatio":1,"ageInMinutes":2004844.2,"openMc":null,"highMc":44955708.54143477,"lowMc":null,"closeMc":null,"liveAge":3514483},{"contract":"0xDf82ad29f859E7c25D155d9E35D8533f46928CA9","symbol":"MOGGY","dateTime":"2024-06-18
+    02:37:23","blockNumber":20115720,"marketCap":248750.4080887718,"price":6.500799513683208e-7,"volume":2935.229223514323,"totalBuys":"1","totalSells":"1","buyRatio":0.5817135755151807,"ageInMinutes":34.6,"openMc":null,"highMc":273482.1347411389,"lowMc":null,"closeMc":null,"liveAge":173},{"contract":"0xe3bddA31C7470821D0e9A7d701d8D9fD3801D8ed","symbol":"KERMIT","dateTime":"2024-06-18
+    02:37:23","blockNumber":20115720,"marketCap":9661.679437991752,"price":2.2966268363858786e-11,"volume":68.64,"totalBuys":"1","totalSells":"0","buyRatio":1,"ageInMinutes":0,"openMc":null,"highMc":9661.679437991752,"lowMc":null,"closeMc":null,"liveAge":0},{"contract":"0xE86DF1970055e9CaEe93Dae9B7D5fD71595d0e18","symbol":"BTC20","dateTime":"2024-06-18
+    02:37:23","blockNumber":20115720,"marketCap":2173193.7219818905,"price":0.10348541533247096,"volume":663.38415,"totalBuys":"1","totalSells":"0","buyRatio":1,"ageInMinutes":446100,"openMc":null,"highMc":2173193.7219818905,"lowMc":null,"closeMc":null,"liveAge":2230500}],"blocks":2,"ageThreshold":7200,"volumeThreshold":0,"requiredMarketCap":1000000,"resimulate":false,"messageType":"Broke1M","topicId":"9352","sendMessage":true}'
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1718435982704.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

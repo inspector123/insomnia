@@ -1,0 +1,27 @@
+_id: req_4320d1e4288a44c4b81db0f8913acea4
+type: Request
+parentId: wrk_a531edaaad7f4e9889ff66e3d4389587
+modified: 1719504154706
+created: 1719503040867
+url: http://localhost:63002/api/solana/gemfinder/Xs
+name: gemxs
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1718637277281
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

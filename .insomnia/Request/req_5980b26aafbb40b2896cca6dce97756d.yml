@@ -1,0 +1,23 @@
+_id: req_5980b26aafbb40b2896cca6dce97756d
+type: Request
+parentId: wrk_a531edaaad7f4e9889ff66e3d4389587
+modified: 1717953799726
+created: 1717953779022
+url: http://localhost:63004/api/solana/indyScans
+name: New Request
+description: ""
+method: PUT
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1717953779022
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
