@@ -1,0 +1,32 @@
+_id: req_6fa6bc2dd0544138bd02fc695ef9077c
+type: Request
+parentId: wrk_a531edaaad7f4e9889ff66e3d4389587
+modified: 1722970103650
+created: 1722029775375
+url: https://graph.defined.fi/graphql
+name: defined listpairswithmetadatafortoken
+description: ""
+method: POST
+body:
+  mimeType: application/graphql
+  text: '{"query":"query {\n  listPairsWithMetadataForToken
+    (tokenAddress:\"5BspCkuyqYNoexjsMHFiv8LFLGq34RcQXCnaRt1Cpump\" networkId:
+    1399811149) {\n    results {\n      pair
+    {\n        address\n      }\n      backingToken
+    {\n        address\n      }\n      volume\n      liquidity\n    }\n  }\n}"}'
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: Authorization
+    value: 3965d153132909270f40b1ddd242f8707ab3251c
+    id: pair_4c420439f72b416492f04d14a2a4117d
+authentication: {}
+metaSortKey: -1722015320815.125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

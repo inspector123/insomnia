@@ -1,0 +1,23 @@
+_id: req_22017bdda34c4d8aacf9784648a48b1e
+type: Request
+parentId: wrk_a531edaaad7f4e9889ff66e3d4389587
+modified: 1724438079606
+created: 1724431397733
+url: http://localhost:63004/api/mixertracking/fixedfloat/history?blockCount=52400
+name: fixedfloat get txs
+description: ""
+method: POST
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1724431397733
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

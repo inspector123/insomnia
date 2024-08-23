@@ -1,0 +1,30 @@
+_id: req_53523c4ffc9d451fa4ae7fab2b54f02f
+type: Request
+parentId: wrk_a531edaaad7f4e9889ff66e3d4389587
+modified: 1723053943140
+created: 1722092785165
+url: https://graph.defined.fi/graphql
+name: defined get token info(depcd)
+description: ""
+method: POST
+body:
+  mimeType: application/graphql
+  text: '{"query":"query {  \n\tgetTokenInfo(address:
+    \"buaqqvzvpkkcyq3eup9r71fpydptyqr6v76elsitpump\", networkId: 1399811149)
+    {\n  \taddress\n    cmcId\n    id\n    isScam\n    name\n    networkId\n    symbol\n    totalSupply\n    imageThumbUrl\n    imageSmallUrl\n    imageLargeUrl\n    circulatingSupply\n  }\n}"}'
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: Authorization
+    value: 3965d153132909270f40b1ddd242f8707ab3251c
+    id: pair_4c420439f72b416492f04d14a2a4117d
+authentication: {}
+metaSortKey: -1722015316859.8438
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

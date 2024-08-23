@@ -1,0 +1,23 @@
+_id: req_5ef7ad214d844c078e7c2bce1e281713
+type: Request
+parentId: wrk_a531edaaad7f4e9889ff66e3d4389587
+modified: 1724438070708
+created: 1724438067161
+url: http://localhost:63004/api/mixertracking/fixedfloat/history?blockCount=52400
+name: analyze FF funders
+description: ""
+method: POST
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1723223414648
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

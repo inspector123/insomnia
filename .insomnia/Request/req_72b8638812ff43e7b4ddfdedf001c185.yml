@@ -1,0 +1,23 @@
+_id: req_72b8638812ff43e7b4ddfdedf001c185
+type: Request
+parentId: wrk_a531edaaad7f4e9889ff66e3d4389587
+modified: 1722144039238
+created: 1722091410048
+url: http://localhost:63004/api/wand/highs
+name: BDS get token highs
+description: ""
+method: POST
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1720460897510.875
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

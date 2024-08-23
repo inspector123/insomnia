@@ -1,0 +1,32 @@
+_id: req_8a5df562e02c446ea3adfa46c0acb4ea
+type: Request
+parentId: wrk_a531edaaad7f4e9889ff66e3d4389587
+modified: 1722093632090
+created: 1722029603100
+url: https://graph.defined.fi/graphql
+name: defined get bars
+description: ""
+method: POST
+body:
+  mimeType: application/graphql
+  text: '{"query":"query {\n  getBars(\n    symbol:
+    \"H4PDo8ngWwC4quPTRWfTr2HorUQ2Ep4G3JVeJHMfkZAT:1399811149\"\n    from:
+    1703750992\n    to: 1722754992\n\t\tcountback: 1500\n    resolution:
+    \"240\"\n    quoteToken: token0\n\t\tremoveLeadingNullValues: true\n  )
+    {\n    o\n    h\n    l\n    c\n    v\n  }\n}"}'
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: Authorization
+    value: 3965d153132909270f40b1ddd242f8707ab3251c
+    id: pair_4c420439f72b416492f04d14a2a4117d
+authentication: {}
+metaSortKey: -1722015336636.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

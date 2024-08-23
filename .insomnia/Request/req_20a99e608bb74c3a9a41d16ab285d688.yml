@@ -1,0 +1,23 @@
+_id: req_20a99e608bb74c3a9a41d16ab285d688
+type: Request
+parentId: wrk_a531edaaad7f4e9889ff66e3d4389587
+modified: 1722147044932
+created: 1722028858936
+url: http://localhost:63004/api/defined/6yjNqPzTSanBWSa6dxVEgTjePXBrZ2FoHLDQwYwEsyM6/high
+name: (deP) Store Token High and Supply (Single)
+description: ""
+method: POST
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1721127072146.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

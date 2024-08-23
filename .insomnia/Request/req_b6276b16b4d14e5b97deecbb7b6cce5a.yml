@@ -1,0 +1,35 @@
+_id: req_b6276b16b4d14e5b97deecbb7b6cce5a
+type: Request
+parentId: wrk_a531edaaad7f4e9889ff66e3d4389587
+modified: 1722094841315
+created: 1720238839299
+url: https://public-api.birdeye.so/defi/ohlcv?address=H4PDo8ngWwC4quPTRWfTr2HorUQ2Ep4G3JVeJHMfkZAT&type=4H&time_from=1702013123&time_to=1722093123
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters:
+  - name: address
+    value: 3S8qX1MsMqRbiwKg2cQyx7nis1oHMgaCuc9c4VfvVdPN
+    disabled: false
+    id: pair_7c196a6695884c9fa37891456bc63727
+  - name: offset
+    value: "10000"
+    disabled: false
+    id: pair_4768f4af6eed48099b968d327fb1cbf7
+  - name: tx_type
+    value: swap
+    disabled: false
+    id: pair_2477a9ced7604dc0bdff33a042dc2a8c
+headers:
+  - name: X-API-KEY
+    value: 36072bf1a37946c8acdff150a8b13160
+authentication: {}
+metaSortKey: -1720238839299
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

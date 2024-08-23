@@ -1,0 +1,37 @@
+_id: req_11cad7003e5946d08fcde370f5412f18
+type: Request
+parentId: wrk_a531edaaad7f4e9889ff66e3d4389587
+modified: 1720238350961
+created: 1720238323284
+url: https://public-api.birdeye.so/defi/txs/token
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters:
+  - name: address
+    value: 3S8qX1MsMqRbiwKg2cQyx7nis1oHMgaCuc9c4VfvVdPN
+    disabled: false
+  - name: offset
+    value: "1000000"
+    disabled: false
+  - name: tx_type
+    value: swap
+    disabled: false
+headers:
+  - name: X-API-KEY
+    value: 36072bf1a37946c8acdff150a8b13160
+authentication:
+  type: apikey
+  disabled: false
+  key: X-API-KEY
+  value: 36072bf1a37946c8acdff150a8b13160
+  addTo: header
+metaSortKey: -1720238323284
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

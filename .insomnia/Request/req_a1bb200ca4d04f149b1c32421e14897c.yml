@@ -1,0 +1,23 @@
+_id: req_a1bb200ca4d04f149b1c32421e14897c
+type: Request
+parentId: wrk_a531edaaad7f4e9889ff66e3d4389587
+modified: 1722448761179
+created: 1722034903504
+url: http://localhost:63004/api/wand/wandcd/highs
+name: UpdateHighs (cd) 4h
+description: ""
+method: POST
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1720682955722.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

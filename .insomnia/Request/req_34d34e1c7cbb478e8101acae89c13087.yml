@@ -1,0 +1,23 @@
+_id: req_34d34e1c7cbb478e8101acae89c13087
+type: Request
+parentId: wrk_a531edaaad7f4e9889ff66e3d4389587
+modified: 1722014042296
+created: 1722002730203
+url: http://localhost:63004/api/wand/alert?all=true
+name: "wand test "
+description: ""
+method: POST
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1718556533624.8125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,30 @@
+_id: req_264e2d4d8f5441fdb2372da06728cd69
+type: Request
+parentId: wrk_a531edaaad7f4e9889ff66e3d4389587
+modified: 1722092902479
+created: 1722092127408
+url: https://graph.defined.fi/graphql
+name: defined getdetailedpairstats
+description: ""
+method: POST
+body:
+  mimeType: application/graphql
+  text: '{"query":"query {\n    getDetailedPairStats(pairAddress:
+    \"7ipx2zrtqpmh8hzkh5qsqzbcgtjuxk7nxvryq8vqpump\" networkId:1399811149
+    bucketCount:2 tokenOfInterest:token1) {\n    tokenOfInterest\n  }\n}"}'
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: Authorization
+    value: 3965d153132909270f40b1ddd242f8707ab3251c
+    id: pair_4c420439f72b416492f04d14a2a4117d
+authentication: {}
+metaSortKey: -1722015312904.5625
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

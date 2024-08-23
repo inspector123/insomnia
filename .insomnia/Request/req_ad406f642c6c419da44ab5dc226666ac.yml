@@ -1,0 +1,23 @@
+_id: req_ad406f642c6c419da44ab5dc226666ac
+type: Request
+parentId: wrk_a531edaaad7f4e9889ff66e3d4389587
+modified: 1723054725397
+created: 1723054722148
+url: http://localhost:63004/api/solana/test
+name: test solana
+description: ""
+method: POST
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1720349868404.9375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

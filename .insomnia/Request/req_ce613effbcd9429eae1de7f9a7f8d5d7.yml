@@ -1,0 +1,30 @@
+_id: req_ce613effbcd9429eae1de7f9a7f8d5d7
+type: Request
+parentId: wrk_a531edaaad7f4e9889ff66e3d4389587
+modified: 1723055641784
+created: 1722092812109
+url: https://graph.defined.fi/graphql
+name: "defined get token data "
+description: ""
+method: POST
+body:
+  mimeType: application/graphql
+  text: '{"query":"query {\n  token(input: { address:
+    \"7gTrQvDsX3FohQTLEXbTMRYmC6cep2yywTvEF7u5pump\", networkId: 1399811149 })
+    {\n   \tid\n    address\n    decimals\n    name\n    symbol\n    totalSupply\n  }\n}"}'
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: Authorization
+    value: 3965d153132909270f40b1ddd242f8707ab3251c
+    id: pair_4c420439f72b416492f04d14a2a4117d
+authentication: {}
+metaSortKey: -1722015314882.2031
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
